@@ -1,0 +1,4 @@
+1. Add library.
+2. Tao class entity.
+3. Tao class ke thua RoomDatabase.
+4. Tao interface Dao(tuong ung vs cac bang) de truy van database

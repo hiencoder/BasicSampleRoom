@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BasicSampleRoom</string>
+    <string name="txt_price">Price: </string>
+</resources>
